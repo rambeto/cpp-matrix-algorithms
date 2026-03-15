@@ -90,6 +90,96 @@ This repository is a comprehensive collection of C++ programs focusing on **2D A
 * **Key Skill:** Full-scale data aggregation and accumulation logic.
 
 ---
+ ---
+
+### 🔍 Featured Solutions (11-27)
+
+#### Problem #11 (11_Matrix-Equality-Check.cpp)
+* **Goal:** Determine if two matrices are identical in value.
+* **Logic:** Iterates through both arrays comparing elements at the same `[i][j]` index; returns `false` upon the first mismatch.
+* **Key Skill:** Nested loops, boolean logic, and early-exit conditions.
+
+#### Problem #12 (12_Matrix-Typical-Check.cpp)
+* **Goal:** Verify if two matrices are equivalent in structure and content.
+* **Logic:** Performs a structural validation (dimensions) before conducting an element-wise content comparison.
+* **Key Skill:** Validation logic and matrix traversal.
+
+#### Problem #13 (13_Matrix-Identity-Check.cpp)
+* **Goal:** Identify if a given matrix is an Identity Matrix.
+* **Logic:** Checks if all diagonal elements (`i == j`) are 1 and all non-diagonal elements are 0.
+* **Key Skill:** Diagonal indexing and conditional verification.
+
+#### Problem #14 (14_Matrix-Scalar-Check.cpp)
+* **Goal:** Determine if a matrix is a Scalar Matrix.
+* **Logic:** Validates that all diagonal elements are equal and all non-diagonal elements are 0.
+* **Key Skill:** Mathematical property validation.
+
+#### Problem #15 (15_Matrix-Frequency-Count.cpp)
+* **Goal:** Count occurrences of a specific integer within a matrix.
+* **Logic:** Traverses the entire matrix, incrementing a counter variable whenever an element matches the target value.
+* **Key Skill:** Data analysis and frequency mapping.
+
+#### Problem #16 (16_Matrix-Sparse-Check.cpp)
+* **Goal:** Determine if a matrix is a Sparse Matrix.
+* **Logic:** Counts the ratio of zero elements to total elements to check if it exceeds a density threshold.
+* **Key Skill:** Data density analysis.
+
+#### Problem #17 (17_Matrix-Number-Presence.cpp)
+* **Goal:** Check for the existence of a specific target number in a matrix.
+* **Logic:** Performs a linear scan through the 2D array until the target is found.
+* **Key Skill:** Searching algorithms.
+
+#### Problem #18 (18_Matrix-Intersected-Numbers.cpp)
+* **Goal:** Identify numbers common to two different matrices.
+* **Logic:** Compares elements of the first matrix against all elements of the second matrix.
+* **Key Skill:** Set theory implementation in arrays.
+
+#### Problem #19 (19_Matrix-Min-Max-Finder.cpp)
+* **Goal:** Retrieve the minimum and maximum values stored in a matrix.
+* **Logic:** Initializes tracking variables and updates them dynamically during a single pass through the matrix.
+* **Key Skill:** Boundary analysis and state management.
+
+#### Problem #20 (20_String-Palindrome-Check.cpp)
+* **Goal:** Determine if a string reads the same forward and backward.
+* **Logic:** Compares characters at `index` and `length - 1 - index` simultaneously until the center is reached.
+* **Key Skill:** Bidirectional string traversal.
+
+#### Problem #21 (21_Math-Fibonacci-Sequence.cpp)
+* **Goal:** Generate the Fibonacci sequence up to N terms iteratively.
+* **Logic:** Uses a loop to maintain the state of the last two numbers to calculate the next sequence value.
+* **Key Skill:** Iterative loop structures.
+
+#### Problem #22 (22_Math-Fibonacci-Recursion.cpp)
+* **Goal:** Generate a Fibonacci number using a recursive approach.
+* **Logic:** Implements the function calling itself as `f(n) = f(n-1) + f(n-2)`.
+* **Key Skill:** Recursion and call stack management.
+
+#### Problem #23 (23_String-First-Letter-Printer.cpp)
+* **Goal:** Isolate and display the first letter of every word in a string.
+* **Logic:** Detects word boundaries by checking for space characters as delimiters.
+* **Key Skill:** String parsing and delimiter-based logic.
+
+#### Problem #24 (24_String-Upper-First-Letter.cpp)
+* **Goal:** Capitalize the first letter of each word in a string.
+* **Logic:** Identifies the start of words and applies `toupper()` to the character at those specific indices.
+* **Key Skill:** String formatting and ASCII manipulation.
+
+#### Problem #25 (25_String-Lower-First-Letter.cpp)
+* **Goal:** Convert the first letter of each word to lowercase.
+* **Logic:** Similar to capitalization, but uses `tolower()` on identified word starters.
+* **Key Skill:** Character-level transformation.
+
+#### Problem #26 (26_String-Invert-Case.cpp)
+* **Goal:** Invert the case of every letter in a string.
+* **Logic:** Iterates through the string, converting uppercase to lowercase and vice versa.
+* **Key Skill:** Conditional text transformation.
+
+#### Problem #27 (27_String-Inverted-Char.cpp)
+* **Goal:** Reverse the order of characters in a string.
+* **Logic:** Swaps characters from the beginning and end of the string until reaching the middle.
+* **Key Skill:** String reversal algorithms and character swapping.
+
+---
 
 ## ⚙️ How to Use
 
