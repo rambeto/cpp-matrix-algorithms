@@ -1,4 +1,14 @@
 /*
+Problem #04
+Calculate the sum of each column in a matrix.
+
+Concepts:
+- 2D Arrays
+- Column Traversal
+- Nested Loops
+*/
+
+/*
 ===========================================================
 Problem: Sum of Each Column in a Matrix
 Description:
