@@ -18,7 +18,23 @@ This repository is a comprehensive collection of C++ programs focusing on **2D A
 | 08 | `08_Matrix-Multiplication.cpp` | Multiply two 3x3 matrices and display the result. | `Math Algorithms` |
 | 09 | `09_Matrix-Middle-Display.cpp` | Extract and print the middle row and middle column. | `Indexing Logic` |
 | 10 | `10_Matrix-Total-Sum.cpp` | Calculate the sum of all elements in the matrix. | `Accumulation` |
-
+| 11 | `11_Matrix-Equality-Check.cpp` | Compares two matrices to check if they are identical. | `Boolean Logic` |
+| 12 | `12_Matrix-Typical-Check.cpp` | Checks if two matrices are typical/similar. | `Validation` |
+| 13 | `13_Matrix-Identity-Check.cpp` | Verifies if the matrix is an Identity Matrix. | `Diagonal Logic` |
+| 14 | `14_Matrix-Scalar-Check.cpp` | Verifies if the matrix is a Scalar Matrix. | `Math Rules` |
+| 15 | `15_Matrix-Frequency-Count.cpp` | Counts occurrences of a specific number in a matrix. | `Frequency Map` |
+| 16 | `16_Matrix-Sparse-Check.cpp` | Checks if the matrix is a Sparse Matrix (mostly zeros). | `Data Density` |
+| 17 | `17_Matrix-Number-Presence.cpp` | Checks if a specific number exists within the matrix. | `Search Logic` |
+| 18 | `18_Matrix-Intersected-Numbers.cpp` | Finds the intersection of numbers between two matrices. | `Set Theory` |
+| 19 | `19_Matrix-Min-Max-Finder.cpp` | Locates the minimum and maximum values in a matrix. | `Boundary Analysis` |
+| 20 | `20_String-Palindrome-Check.cpp` | Checks if a string is a palindrome. | `String Logic` |
+| 21 | `21_Math-Fibonacci-Sequence.cpp` | Generates the Fibonacci sequence up to N terms. | `Recursion/Loop` |
+| 22 | `22_Math-Fibonacci-Recursion.cpp` | Implements Fibonacci sequence using recursion. | `Recursion` |
+| 23 | `23_String-First-Letter-Printer.cpp` | Prints the first letter of each word in a string. | `String Parsing` |
+| 24 | `24_String-Upper-First-Letter.cpp` | Capitalizes the first letter of each word. | `String Formatting` |
+| 25 | `25_String-Lower-First-Letter.cpp` | Makes the first letter of each word lowercase. | `String Formatting` |
+| 26 | `26_String-Invert-Case.cpp` | Inverts the case of all letters in a string. | `Case Manipulation` |
+| 27 | `27_String-Inverted-Char.cpp` | Inverts the characters of a string. | `Reverse Logic` |
 ---
 
 ## 🔍 Featured Solutions (Detailed Breakdown 1-10)
