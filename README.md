@@ -1,6 +1,7 @@
 # cpp-matrix-algorithms
-A comprehensive collection of 50+ C++ solutions focused on matrix operations and advanced algorithmic problem-solving. Part of my journey to master logic building and software engineering fundamentals.
-# C++ Mastery: Advanced Matrix & Array Algorithms 🚀
+A collection of C++ matrix algorithms and problem-solving exercises focused on 2D arrays, logic building, and algorithmic thinking.
+
+## C++ Matrix Algorithms & Problem Solving
 
 This repository is a comprehensive collection of C++ programs focusing on **2D Arrays (Matrices)**, **Algorithm Logic**, and **Computational Problem-Solving**. It covers operations ranging from basic traversal to complex mathematical matrix manipulations.
 
@@ -10,7 +11,7 @@ The project is organized into modular `.cpp` files, each designed with clean log
 ---
 
 ## 📋 List of Challenges & Solutions
-*I add 10 new challenges daily. Here is the current progress:*
+*New challenges will be added regularly:*
 
 | # | Professional File Name | Description | Key Concept |
 | :---: | :--- | :--- | :--- |
@@ -43,7 +44,7 @@ The project is organized into modular `.cpp` files, each designed with clean log
 ---
 
 ## ⚙️ How to Use
-1. Clone the repo: `git clone https://github.com/YourUsername/cpp-matrix-algorithms.git`
+1. Clone the repo: `git clone https://github.com/rambeto/cpp-matrix-algorithms.git`
 2. Open any `.cpp` file in **Visual Studio** or **VS Code**.
 3. Compile using `g++` or your preferred compiler.
 
