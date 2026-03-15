@@ -38,7 +38,29 @@ This repository is a **comprehensive collection of C++ programs** focusing on **
 | 25 | [25_String-Lower-First-Letter.cpp](./25_String-Lower-First-Letter.cpp) | Makes the first letter of each word lowercase. | String Formatting |
 | 26 | [26_String-Invert-Case.cpp](./26_String-Invert-Case.cpp) | Inverts the case of all letters in a string. | Case Manipulation |
 | 27 | [27_String-Inverted-Char.cpp](./27_String-Inverted-Char.cpp) | Inverts the characters of a string. | Reverse Logic |
-
+| 28 | [28-InvertedAllCharacter.txt](./28-InvertedAllCharacter.txt) | Reverse all characters in a string. | String Reversal |
+| 29 | [29-CountLetters.txt](./29-CountLetters.txt) | Count total letters in a string. | Character Counting |
+| 30 | [30-CounterCharacter.txt](./30-CounterCharacter.txt) | Count occurrences of a specific character. | Frequency Mapping |
+| 31 | [31-CountLetterMatchCase.txt](./31-CountLetterMatchCase.txt) | Count occurrences of a letter with exact case. | Case-Sensitive Counting |
+| 32 | [32-IsVowl.txt](./32-IsVowl.txt) | Determine if a character is a vowel. | Conditional Logic |
+| 33 | [33-CountVowel.txt](./33-CountVowel.txt) | Count all vowels in a string. | Data Analysis |
+| 34 | [34-PrintAllVowellnString.txt](./34-PrintAllVowellnString.txt) | Print all vowels in a string. | Filtering Characters |
+| 35 | [35-PrintEachWordInString.txt](./35-PrintEachWordInString.txt) | Print each word on a new line. | String Parsing |
+| 36 | [36-CountWords.txt](./36-CountWords.txt) | Count total words in a string. | Word Boundary Detection |
+| 37 | [37-SplitString.txt](./37-SplitString.txt) | Split a string by a delimiter. | String Tokenization |
+| 38 | [38-TrimLeftAndTrimRightAndTrim.txt](./38-TrimLeftAndTrimRightAndTrim.txt) | Trim leading and trailing spaces. | String Cleaning |
+| 39 | [39-JoinString.txt](./39-JoinString.txt) | Concatenate multiple strings. | String Concatenation |
+| 40 | [40-JoinStringOverLoding.txt](./40-JoinStringOverLoding.txt) | Demonstrate string join with overloading. | Function Overloading |
+| 41 | [41-ReverseWords.txt](./41-ReverseWords.txt) | Reverse the order of words in a string. | Word-Level Reversal |
+| 42 | [42-ReplaceWordInStringUsingBuiltInFun.txt](./42-ReplaceWordInStringUsingBuiltInFun.txt) | Replace a word using built-in functions. | String Search & Replace |
+| 43 | [43-replaceWordMatchCase.txt](./43-replaceWordMatchCase.txt) | Replace a word while matching case. | Case-Sensitive Replacement |
+| 44 | [44-RemovePunctuationsFromString.txt](./44-RemovePunctuationsFromString.txt) | Remove all punctuation characters. | Character Filtering |
+| 45 | [45-ConvertRecodToLine.txt](./45-ConvertRecodToLine.txt) | Convert multi-line record to single line. | String Normalization |
+| 47 | [47-AddClintsToFile.txt](./47-AddClintsToFile.txt) | Append new client records to a file. | File I/O |
+| 48 | [48-showAllCleints.txt](./48-showAllCleints.txt) | Display all client records. | File Reading |
+| 49 | [49-FindClientByAccountNumber.txt](./49-FindClientByAccountNumber.txt) | Search client by account number. | File Search Logic |
+| 50 | [50-DeleteClientByAccountNumber.txt](./50-DeleteClientByAccountNumber.txt) | Delete client record by account number. | File Manipulation |
+| 51 | [51-UpdateClientByAccountNumber.txt](./51-UpdateClientByAccountNumber.txt) | Update client record by account number. | File Update |
 ---
 
 ## 🔍 Featured Solutions (1-27)
@@ -177,6 +199,123 @@ This repository is a **comprehensive collection of C++ programs** focusing on **
 - **Goal:** Reverse characters in a string.  
 - **Logic:** Swap start/end characters until reaching the middle.  
 - **Key Skill:** String reversal algorithms.
+
+### 🔍 Featured Solutions (28-51)
+
+### 28. Invert All Characters (28-InvertedAllCharacter.txt)
+- **Goal:** Reverse the order of all characters in a string.  
+- **Logic:** Iterate from end to start, building a new reversed string.  
+- **Key Skill:** String manipulation and reversal algorithms.
+
+### 29. Count Letters (29-CountLetters.txt)
+- **Goal:** Count total letters in a string.  
+- **Logic:** Loop through each character, increment counter if it's alphabetic.  
+- **Key Skill:** Character classification and counting.
+
+### 30. Counter Character (30-CounterCharacter.txt)
+- **Goal:** Count occurrences of a specific character in a string.  
+- **Logic:** Traverse string, increment counter when target character matches.  
+- **Key Skill:** Frequency mapping and iteration.
+
+### 31. Count Letter Match Case (31-CountLetterMatchCase.txt)
+- **Goal:** Count occurrences of a specific letter with exact case.  
+- **Logic:** Compare characters with case sensitivity.  
+- **Key Skill:** Case-aware comparison.
+
+### 32. Is Vowel (32-IsVowl.txt)
+- **Goal:** Determine if a character is a vowel.  
+- **Logic:** Check character against list of vowels (`a, e, i, o, u`).  
+- **Key Skill:** Conditional checks and boolean logic.
+
+### 33. Count Vowel (33-CountVowel.txt)
+- **Goal:** Count total vowels in a string.  
+- **Logic:** Iterate each character, increment counter if `isVowel` returns true.  
+- **Key Skill:** String traversal and conditional counting.
+
+### 34. Print All Vowel In String (34-PrintAllVowellnString.txt)
+- **Goal:** Print all vowels found in a string.  
+- **Logic:** Loop through string, print character if it's a vowel.  
+- **Key Skill:** Filtering and character classification.
+
+### 35. Print Each Word In String (35-PrintEachWordInString.txt)
+- **Goal:** Display each word of a string on a separate line.  
+- **Logic:** Split string using spaces as delimiters and print each part.  
+- **Key Skill:** String tokenization.
+
+### 36. Count Words (36-CountWords.txt)
+- **Goal:** Count total words in a string.  
+- **Logic:** Increment word counter when a non-space character follows a space or start.  
+- **Key Skill:** Word boundary detection.
+
+### 37. Split String (37-SplitString.txt)
+- **Goal:** Split a string into multiple parts using a delimiter.  
+- **Logic:** Iterate and store substrings when delimiter is encountered.  
+- **Key Skill:** String splitting and array storage.
+
+### 38. Trim Left and Trim Right (38-TrimLeftAndTrimRightAndTrim.txt)
+- **Goal:** Remove leading and trailing spaces from a string.  
+- **Logic:** Detect start and end of meaningful content, create trimmed string.  
+- **Key Skill:** String cleaning and boundary detection.
+
+### 39. Join String (39-JoinString.txt)
+- **Goal:** Concatenate multiple strings into one.  
+- **Logic:** Append strings sequentially to a result string.  
+- **Key Skill:** String concatenation.
+
+### 40. Join String Overloading (40-JoinStringOverLoding.txt)
+- **Goal:** Demonstrate function overloading for joining strings.  
+- **Logic:** Implement multiple `join` functions with different parameter types.  
+- **Key Skill:** Function overloading in C++.
+
+### 41. Reverse Words (41-ReverseWords.txt)
+- **Goal:** Reverse the order of words in a string.  
+- **Logic:** Split string into words, reverse array, join into new string.  
+- **Key Skill:** Word-level reversal.
+
+### 42. Replace Word in String Using Built-In Function (42-ReplaceWordInStringUsingBuiltInFun.txt)
+- **Goal:** Replace a word using C++ built-in string methods.  
+- **Logic:** Find word position with `find()`, replace using `replace()`.  
+- **Key Skill:** String search & replace.
+
+### 43. Replace Word Match Case (43-replaceWordMatchCase.txt)
+- **Goal:** Replace a word while matching case exactly.  
+- **Logic:** Compare substrings with exact case, replace when matched.  
+- **Key Skill:** Case-sensitive string manipulation.
+
+### 44. Remove Punctuations From String (44-RemovePunctuationsFromString.txt)
+- **Goal:** Remove all punctuation characters.  
+- **Logic:** Traverse string, skip punctuation characters.  
+- **Key Skill:** Character classification & filtering.
+
+### 45. Convert Record to Line (45-ConvertRecodToLine.txt)
+- **Goal:** Convert multi-line records into a single line.  
+- **Logic:** Remove newline characters while preserving content.  
+- **Key Skill:** String normalization.
+
+### 47. Add Clients To File (47-AddClintsToFile.txt)
+- **Goal:** Append new client records to a file.  
+- **Logic:** Open file in append mode, write new record.  
+- **Key Skill:** File I/O in C++.
+
+### 48. Show All Clients (48-showAllCleints.txt)
+- **Goal:** Display all client records from file.  
+- **Logic:** Open file, read line by line, print content.  
+- **Key Skill:** File reading & display.
+
+### 49. Find Client By Account Number (49-FindClientByAccountNumber.txt)
+- **Goal:** Search client using account number.  
+- **Logic:** Read file, compare account number with target.  
+- **Key Skill:** File search logic.
+
+### 50. Delete Client By Account Number (50-DeleteClientByAccountNumber.txt)
+- **Goal:** Delete a specific client record by account number.  
+- **Logic:** Copy all records except target to temporary file, replace original.  
+- **Key Skill:** File manipulation and record deletion.
+
+### 51. Update Client By Account Number (51-UpdateClientByAccountNumber.txt)
+- **Goal:** Update a client record using account number.  
+- **Logic:** Read file, update matching record, rewrite file.  
+- **Key Skill:** File I/O with update operations.
 
 ---
 
