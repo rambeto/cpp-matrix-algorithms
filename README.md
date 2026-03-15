@@ -30,7 +30,7 @@ This repository is a **comprehensive collection of C++ programs** focusing on **
 | 17 | [17_Matrix-Number-Presence.cpp](./17_Matrix-Number-Presence.cpp) | Checks if a specific number exists within the matrix. | Search Logic |
 | 18 | [18_Matrix-Intersected-Numbers.cpp](./18_Matrix-Intersected-Numbers.cpp) | Finds the intersection of numbers between two matrices. | Set Theory |
 | 19 | [19_Matrix-Min-Max-Finder.cpp](./19_Matrix-Min-Max-Finder.cpp) | Locates the minimum and maximum values in a matrix. | Boundary Analysis |
-| 20 | [20_String-Palindrome-Check.cpp](./20_String-Palindrome-Check.cpp) | Checks if a string is a palindrome. | String Logic |
+| 20 | [20_Matrix-Palindrome-Check.cpp](./20_Matrix-Palindrome-Check.cpp) | Checks if each row in a matrix is a palindrome. | matrix Logic |
 | 21 | [21_Math-Fibonacci-Sequence.cpp](./21_Math-Fibonacci-Sequence.cpp) | Generates the Fibonacci sequence up to N terms. | Iterative Loops |
 | 22 | [22_Math-Fibonacci-Recursion.cpp](./22_Math-Fibonacci-Recursion.cpp) | Implements Fibonacci sequence using recursion. | Recursion |
 | 23 | [23_String-First-Letter-Printer.cpp](./23_String-First-Letter-Printer.cpp) | Prints the first letter of each word in a string. | String Parsing |
