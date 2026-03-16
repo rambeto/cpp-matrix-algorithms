@@ -38,29 +38,29 @@ This repository is a **comprehensive collection of C++ programs** focusing on **
 | 25 | [25_String-Lower-First-Letter.cpp](./25_String-Lower-First-Letter.cpp) | Makes the first letter of each word lowercase. | String Formatting |
 | 26 | [26_String-Invert-Case.cpp](./26_String-Invert-Case.cpp) | Inverts the case of all letters in a string. | Case Manipulation |
 | 27 | [27_String-Inverted-Char.cpp](./27_String-Inverted-Char.cpp) | Inverts the characters of a string. | Reverse Logic |
-| 28 | [28-InvertedAllCharacter.txt](./28-InvertedAllCharacter.txt) | Reverse all characters in a string. | String Reversal |
-| 29 | [29-CountLetters.txt](./29-CountLetters.txt) | Count total letters in a string. | Character Counting |
-| 30 | [30-CounterCharacter.txt](./30-CounterCharacter.txt) | Count occurrences of a specific character. | Frequency Mapping |
-| 31 | [31-CountLetterMatchCase.txt](./31-CountLetterMatchCase.txt) | Count occurrences of a letter with exact case. | Case-Sensitive Counting |
-| 32 | [32-IsVowl.txt](./32-IsVowl.txt) | Determine if a character is a vowel. | Conditional Logic |
-| 33 | [33-CountVowel.txt](./33-CountVowel.txt) | Count all vowels in a string. | Data Analysis |
-| 34 | [34-PrintAllVowellnString.txt](./34-PrintAllVowellnString.txt) | Print all vowels in a string. | Filtering Characters |
-| 35 | [35-PrintEachWordInString.txt](./35-PrintEachWordInString.txt) | Print each word on a new line. | String Parsing |
-| 36 | [36-CountWords.txt](./36-CountWords.txt) | Count total words in a string. | Word Boundary Detection |
-| 37 | [37-SplitString.txt](./37-SplitString.txt) | Split a string by a delimiter. | String Tokenization |
-| 38 | [38-TrimLeftAndTrimRightAndTrim.txt](./38-TrimLeftAndTrimRightAndTrim.txt) | Trim leading and trailing spaces. | String Cleaning |
-| 39 | [39-JoinString.txt](./39-JoinString.txt) | Concatenate multiple strings. | String Concatenation |
-| 40 | [40-JoinStringOverLoding.txt](./40-JoinStringOverLoding.txt) | Demonstrate string join with overloading. | Function Overloading |
-| 41 | [41-ReverseWords.txt](./41-ReverseWords.txt) | Reverse the order of words in a string. | Word-Level Reversal |
-| 42 | [42-ReplaceWordInStringUsingBuiltInFun.txt](./42-ReplaceWordInStringUsingBuiltInFun.txt) | Replace a word using built-in functions. | String Search & Replace |
-| 43 | [43-replaceWordMatchCase.txt](./43-replaceWordMatchCase.txt) | Replace a word while matching case. | Case-Sensitive Replacement |
-| 44 | [44-RemovePunctuationsFromString.txt](./44-RemovePunctuationsFromString.txt) | Remove all punctuation characters. | Character Filtering |
-| 45 | [45-ConvertRecodToLine.txt](./45-ConvertRecodToLine.txt) | Convert multi-line record to single line. | String Normalization |
-| 47 | [47-AddClintsToFile.txt](./47-AddClintsToFile.txt) | Append new client records to a file. | File I/O |
-| 48 | [48-showAllCleints.txt](./48-showAllCleints.txt) | Display all client records. | File Reading |
-| 49 | [49-FindClientByAccountNumber.txt](./49-FindClientByAccountNumber.txt) | Search client by account number. | File Search Logic |
-| 50 | [50-DeleteClientByAccountNumber.txt](./50-DeleteClientByAccountNumber.txt) | Delete client record by account number. | File Manipulation |
-| 51 | [51-UpdateClientByAccountNumber.txt](./51-UpdateClientByAccountNumber.txt) | Update client record by account number. | File Update |
+| 28 | [28-InvertedAllCharacter.cpp](./28-InvertedAllCharacter.cpp) | Reverse all characters in a string. | String Reversal |
+| 29 | [29-CountLetters.cpp](./29-CountLetters.cpp) | Count total letters in a string. | Character Counting |
+| 30 | [30-CounterCharacter.cpp](./30-CounterCharacter.cpp) | Count occurrences of a specific character. | Frequency Mapping |
+| 31 | [31-CountLetterMatchCase.cpp](./31-CountLetterMatchCase.cpp) | Count occurrences of a letter with exact case. | Case-Sensitive Counting |
+| 32 | [32-IsVowl.cpp](./32-IsVowl.cpp) | Determine if a character is a vowel. | Conditional Logic |
+| 33 | [33-CountVowel.cpp](./33-CountVowel.cpp) | Count all vowels in a string. | Data Analysis |
+| 34 | [34-PrintAllVowellnString.cpp](./34-PrintAllVowellnString.cpp) | Print all vowels in a string. | Filtering Characters |
+| 35 | [35-PrintEachWordInString.cpp](./35-PrintEachWordInString.cpp) | Print each word on a new line. | String Parsing |
+| 36 | [36-CountWords.cpp](./36-CountWords.cpp) | Count total words in a string. | Word Boundary Detection |
+| 37 | [37-SplitString.cpp](./37-SplitString.cpp) | Split a string by a delimiter. | String Tokenization |
+| 38 | [38-TrimLeftAndTrimRightAndTrim.cpp](./38-TrimLeftAndTrimRightAndTrim.cpp) | Trim leading and trailing spaces. | String Cleaning |
+| 39 | [39-JoinString.cpp](./39-JoinString.cpp) | Concatenate multiple strings. | String Concatenation |
+| 40 | [40-JoinStringOverLoding.cpp](./40-JoinStringOverLoding.cpp) | Demonstrate string join with overloading. | Function Overloading |
+| 41 | [41-ReverseWords.cpp](./41-ReverseWords.cpp) | Reverse the order of words in a string. | Word-Level Reversal |
+| 42 | [42-ReplaceWordInStringUsingBuiltInFun.cpp](./42-ReplaceWordInStringUsingBuiltInFun.cpp) | Replace a word using built-in functions. | String Search & Replace |
+| 43 | [43-replaceWordMatchCase.cpp](./43-replaceWordMatchCase.cpp) | Replace a word while matching case. | Case-Sensitive Replacement |
+| 44 | [44-RemovePunctuationsFromString.cpp](./44-RemovePunctuationsFromString.cpp) | Remove all punctuation characters. | Character Filtering |
+| 45 | [45-ConvertRecodToLine.cpp](./45-ConvertRecodToLine.cpp) | Convert multi-line record to single line. | String Normalization |
+| 47 | [47-AddClintsToFile.cpp](./47-AddClintsToFile.cpp) | Append new client records to a file. | File I/O |
+| 48 | [48-showAllCleints.cpp](./48-showAllCleints.cpp) | Display all client records. | File Reading |
+| 49 | [49-FindClientByAccountNumber.cpp](./49-FindClientByAccountNumber.cpp) | Search client by account number. | File Search Logic |
+| 50 | [50-DeleteClientByAccountNumber.cpp](./50-DeleteClientByAccountNumber.cpp) | Delete client record by account number. | File Manipulation |
+| 51 | [51-UpdateClientByAccountNumber.cpp](./51-UpdateClientByAccountNumber.cpp) | Update client record by account number. | File Update |
 ---
 
 ## 🔍 Featured Solutions (1-27)
