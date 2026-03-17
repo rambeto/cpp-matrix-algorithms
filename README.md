@@ -56,11 +56,11 @@ This repository is a **comprehensive collection of C++ programs** focusing on **
 | 43 | [43-replaceWordMatchCase.cpp](./43-replaceWordMatchCase.cpp) | Replace a word while matching case. | Case-Sensitive Replacement |
 | 44 | [44-RemovePunctuationsFromString.cpp](./44-RemovePunctuationsFromString.cpp) | Remove all punctuation characters. | Character Filtering |
 | 45 | [45-ConvertRecodToLine.cpp](./45-ConvertRecodToLine.cpp) | Convert multi-line record to single line. | String Normalization |
-| 47 | [47-AddClintsToFile.cpp](./47-AddClintsToFile.cpp) | Append new client records to a file. | File I/O |
-| 48 | [48-showAllCleints.cpp](./48-showAllCleints.cpp) | Display all client records. | File Reading |
-| 49 | [49-FindClientByAccountNumber.cpp](./49-FindClientByAccountNumber.cpp) | Search client by account number. | File Search Logic |
-| 50 | [50-DeleteClientByAccountNumber.cpp](./50-DeleteClientByAccountNumber.cpp) | Delete client record by account number. | File Manipulation |
-| 51 | [51-UpdateClientByAccountNumber.cpp](./51-UpdateClientByAccountNumber.cpp) | Update client record by account number. | File Update |
+| 46 | [46-AddClintsToFile.cpp](./46-AddClintsToFile.cpp) | Append new client records to a file. | File I/O |
+| 47 | [47-showAllCleints.cpp](./47-showAllCleints.cpp) | Display all client records. | File Reading |
+| 48 | [48-FindClientByAccountNumber.cpp](./48-FindClientByAccountNumber.cpp) | Search client by account number. | File Search Logic |
+| 49 | [49-DeleteClientByAccountNumber.cpp](./49-DeleteClientByAccountNumber.cpp) | Delete client record by account number. | File Manipulation |
+| 50 | [50-UpdateClientByAccountNumber.cpp](./50-UpdateClientByAccountNumber.cpp) | Update client record by account number. | File Update |
 ---
 
 ## 🔍 Featured Solutions (1-27)
